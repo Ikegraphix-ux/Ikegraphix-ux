@@ -1,4 +1,4 @@
-# Hi, I'm Isaac Asumadu Agyei 👋
+# Hi, I'm Isaac Asumadu Agyei 
 
 ### Full-Stack Developer | Software Engineering Student | Builder
 
@@ -6,16 +6,16 @@ I'm a Ghanaian software developer focused on building practical web applications
 
 I enjoy working across the stack—from designing user interfaces and APIs to structuring databases, implementing authentication, and connecting frontend applications to backend services.
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 BSc Information Technology student at USTED
-- 💻 Full-stack developer with a focus on practical software engineering
-- 🔧 Comfortable with PHP, Python, MySQL, JavaScript, HTML, CSS and Bootstrap
-- 🔐 Interested in authentication, API design, application security and system architecture
-- 🤖 Exploring AI, data and FinTech applications
-- 🌍 Based in Ghana
+-  BSc Information Technology student at USTED
+- Full-stack developer with a focus on practical software engineering
+- Comfortable with PHP, Python, MySQL, JavaScript, HTML, CSS and Bootstrap
+- Interested in authentication, API design, application security and system architecture
+- Exploring AI, data and FinTech applications
+- Based in Ghana
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 - HTML5
@@ -41,14 +41,14 @@ I enjoy working across the stack—from designing user interfaces and APIs to st
 - Pytest
 - AI-assisted development
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🔐 TAMVA TrustStack
+### TAMVA TrustStack
 A team software project focused on trust, identity and risk-related workflows.
 
 **Focus:** Frontend integration, REST API consumption, authentication, dashboards and business workflows.
 
-### 💸 KudiFlow
+### KudiFlow
 **Secure Digital Money Transfer Platform**
 
 An educational financial-system prototype designed to demonstrate secure digital money-transfer behavior.
@@ -59,16 +59,16 @@ An educational financial-system prototype designed to demonstrate secure digital
 
 > KudiFlow is an educational prototype and does not process real money or connect to real bank/mobile-money accounts.
 
-### 📚 EduCrescendo
+### EduCrescendo
 An education-focused web project built to support learning and digital educational experiences.
 
-### 🧾 Ike-Tech-Hub POS
+### Ike-Tech-Hub POS
 A practical Point-of-Sale system concept for small businesses, covering products, categories, sales, reports, users, settings, backups and receipts.
 
-### 🌐 Portfolio
+### Portfolio
 My personal portfolio and a place to showcase selected development work.
 
-## 📖 Currently Learning
+## Currently Learning
 
 - Software architecture and system design
 - Backend engineering
@@ -79,7 +79,7 @@ My personal portfolio and a place to showcase selected development work.
 - AI-assisted software development
 - FinTech, data and cybersecurity concepts
 
-## 🎯 What I Like Building
+## What I Like Building
 
 I’m particularly interested in applications that combine:
 
@@ -90,7 +90,7 @@ I’m particularly interested in applications that combine:
 - Useful and simple user interfaces
 - Automation and AI
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm open to learning opportunities, software projects, collaborations and conversations around technology.
 
