@@ -6,11 +6,12 @@ I'm a Ghanaian software developer focused on building practical web applications
 
 I enjoy working across the stack—from designing user interfaces and APIs to structuring databases, implementing authentication, and connecting frontend applications to backend services.
 
-##  About Me
+## About Me
 
--  BSc Information Technology student at USTED
+- BSc Information Technology student at USTED
 - Full-stack developer with a focus on practical software engineering
-- Comfortable with PHP, Python, MySQL, JavaScript, HTML, CSS and Bootstrap
+- Frontend technologies: HTML, CSS, JavaScript, React, TypeScript and Bootstrap
+- Backend technologies: PHP, Python and FastAPI
 - Interested in authentication, API design, application security and system architecture
 - Exploring AI, data and FinTech applications
 - Based in Ghana
@@ -21,6 +22,8 @@ I enjoy working across the stack—from designing user interfaces and APIs to st
 - HTML5
 - CSS3
 - JavaScript
+- TypeScript
+- React
 - Bootstrap
 
 **Backend**
@@ -41,7 +44,7 @@ I enjoy working across the stack—from designing user interfaces and APIs to st
 - Pytest
 - AI-assisted development
 
-##  Featured Projects
+## Featured Projects
 
 ### TAMVA TrustStack
 A team software project focused on trust, identity and risk-related workflows.
@@ -71,6 +74,7 @@ My personal portfolio and a place to showcase selected development work.
 ## Currently Learning
 
 - Software architecture and system design
+- Frontend development with React and TypeScript
 - Backend engineering
 - REST API development
 - Authentication and authorization
